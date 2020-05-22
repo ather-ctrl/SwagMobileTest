@@ -2,7 +2,7 @@
 This page contains page objects elements for CalculatorUI
  */
 
-package page_objects;                         //Enter your package name here.
+package page_objects;                         //Enter your package name 
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidElement;
